@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Andovine'; src: url(./Andovine.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Suffer'; src: url(./Suffer.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Queenie'; src: url(./queenie.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BlackLives'; src: url(./aBlackLives.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SoehneWeb'; src: url(./soehne-web-leicht.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'SoehneWeb2'; src: url(./soehne-schmal-web-extrafett.woff2) format('woff2');
+}
